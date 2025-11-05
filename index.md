@@ -6,7 +6,7 @@ hero:
   name: "Hostile"
   text: "Framework for Auditing Hosting Provider Security"
   image:
-    src: /hostile-logo-3d.png
+    src: /hostileproject.png
     alt: Hostile Project Logo
   actions:
     - theme: brand
